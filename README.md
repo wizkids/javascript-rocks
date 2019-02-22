@@ -45,7 +45,7 @@ For example, using the text from step #3 `Hello, my name is J` the letter `J` sh
 
 #### 6. Add your code in a Git project on GitHub and share the link with your Wizkids contact.
 
-#### 7. (OPTIONAL, but strongly recommended) Share your most awesome JavaScript front-end project with us that you've had a major and contribution to.
+#### 7. (OPTIONAL, but strongly recommended) Share your most awesome JavaScript front-end project - in which you've been a major contributor - with us (Git repository preferred).
 
 ## Word predictions web service description
 
