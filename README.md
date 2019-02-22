@@ -6,9 +6,11 @@ The test is inspired by one of our products (AppWriter) which helps people with 
 Predictions are word completions based on the input text, for example:
 If the input text is `I like ca` the predictions could be `cars`, `cats` and `cake`.
 
-The test requires you to write a small web page and JavaScript that implements a small subset of AppWriter functionality. You are free to choose any library to help you or write vanilla HTML/CSS/JS if that's your thing!
+The test requires you to write a small web page and JavaScript that implements a small subset of AppWriter functionality. You are free to choose any library&ast; to help you or write vanilla HTML/CSS/JS if that's your thing!
 
 If you have any issues getting the word prediction web service to work, don't hesitate in contacting us.
+
+&ast; *Except autocomplete modules such as jQuery/Angular/React autocomplete - we would like to see your ability to solve this rather than your ability to use third party modules.*
 
 ## Scope
 
@@ -42,6 +44,8 @@ For example, using the text from step #3 `Hello, my name is J` the letter `J` sh
 > **J**une  
 
 #### 6. Add your code in a Git project on GitHub and share the link with your Wizkids contact.
+
+#### 7. (OPTIONAL, but strongly recommended) Share your most awesome JavaScript front-end project with us that you've had a major and contribution to.
 
 ## Word predictions web service description
 
