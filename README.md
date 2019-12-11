@@ -20,7 +20,7 @@ We expect a well-versed front-ender to be able to complete the task within 1 hou
 
 ## Tasks
 
-#### 1. Generate a token for use with the word predictions web service at https://services.lingapps.dk/misc/jobAdvert.
+#### 1. Generate a token for use with the word predictions web service at https://services.lingapps.dk/misc/CSharpJSRocks.
 
 #### 2.  Write a function that performs a web request to fetch word predictions.
 See the "Word predictions web service description" section below for more info on how to use the web service.
@@ -45,7 +45,7 @@ For example, using the text from step #3 `Hello, my name is J` the letter `J` sh
 > **J**ames  
 > **J**une  
 
-#### 7. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/jobAdvert.
+#### 7. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/CSharpJSRocks.
 
 (OPTIONAL, but strongly recommended) Also add a link to one of your JavaScript front-end projects (in which you've been a major contributor) - Git repository preferred.
 
