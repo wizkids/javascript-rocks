@@ -1,3 +1,5 @@
+*Please do not fork this repository.*
+
 # JavaScript rocks!
 
 Welcome to the Wizkids JavaScript test!
