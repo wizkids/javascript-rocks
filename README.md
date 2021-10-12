@@ -16,7 +16,7 @@ If you encounter any unexpected issues please contact us at `srs AT wizkids.dk` 
 
 We expect a simply structured HTML/CSS/JS project with good readability. Design and UX is not a major consideration - keeping it simple is fine.
 
-We expect a well-versed front-ender to be able to complete the task within 1 hour.
+We expect a well-versed front-ender to be able to complete the task within a few hours.
 
 ## Tasks
 
