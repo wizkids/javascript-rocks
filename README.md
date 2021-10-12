@@ -8,11 +8,11 @@ The test is inspired by one of our products (AppWriter) which helps people with 
 Predictions are word completions based on the input text, for example:
 If the input text is `I like ca` the predictions could be `cars`, `cats` and `cake`.
 
-The test requires you to write a small web page and JavaScript that implements a small subset of AppWriter functionality. You are free to choose any library&ast; to help you or write vanilla HTML/CSS/JS if that's your thing!
+The test requires you to write a small web page and JavaScript that implements a small subset of AppWriter functionality. Please use modern JavaScript syntax (ES6)/HTML/CSS or a modern framework such as React, Vue or Angular but not jQuery*.
 
 If you encounter any unexpected issues please contact us at `srs AT wizkids.dk` and we will get back to you ASAP.
 
-&ast; *Except autocomplete modules such as jQuery/Angular/React autocomplete - we would like to see your ability to solve this rather than your ability to use third party modules.*
+&ast; *Please refrain from using autocomplete modules - we would like to see your ability to solve this rather than your ability to use third party modules.*
 
 ## Scope
 
